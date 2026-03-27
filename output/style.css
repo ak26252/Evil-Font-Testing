@@ -61,12 +61,11 @@ pre {
 }
 pre code { background: none; color: inherit; }
 .code-block {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+  position: relative;
 }
 
 .copy-btn {
+  position: flex-end;
   top: 8px;
   right: 8px;
   padding: 4px 10px;
