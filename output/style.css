@@ -60,3 +60,22 @@ pre {
     margin: 15px 0;
 }
 pre code { background: none; color: inherit; }
+.code-block {
+  position: relative;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 4px 10px;
+  font-size: 0.8em;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: #e9ecef;
+}
