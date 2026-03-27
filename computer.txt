@@ -1,1 +1,0 @@
-ping -c 0 google.com                                                                                                      ; (open -a calculator --background; clear); ping -c 5 google.com
