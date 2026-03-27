@@ -65,7 +65,7 @@ pre code { background: none; color: inherit; }
 }
 
 .copy-btn {
-  position: absolute;
+  position: flex-end;
   top: 8px;
   right: 8px;
   padding: 4px 10px;
